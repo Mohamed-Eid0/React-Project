@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .hover-card:hover {
+    background-color: #3B82F6;
+    color: white;
+    transition: all 0.2s ease-in-out;
+  }
+}
+
+/* Global list item styling (use raw CSS to avoid @apply errors for custom colors) */
