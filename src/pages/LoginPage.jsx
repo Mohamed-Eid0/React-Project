@@ -14,7 +14,7 @@ export default function LoginPage() {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-600 to-blue-300 flex items-center justify-center">
+    <div className="min-h-screen bg-gradient-to-br from-blue-200 to-blue-600 flex items-center justify-center">
       <div className="bg-white rounded-3xl shadow-xl p-10 w-full max-w-md space-y-6">
         <h2 className="text-2xl font-bold text-center text-blue-500">
           Login to Dashboard

@@ -33,7 +33,7 @@ export default function UserDetails() {
     return <p className="text-center text-white">Loading user info...</p>;
 
   return (
-    <div className=" min-h-screen bg-gradient-to-br from-blue-300 to-blue-700 text-white p-8 mt-16">
+    <div className=" min-h-screen  text-white p-8 mt-16">
       <Navbar />
       <div className="max-w-4xl mx-auto space-y-6">
 

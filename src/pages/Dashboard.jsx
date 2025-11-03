@@ -11,7 +11,7 @@ export default function Dashboard() {
   return (
     <>
       <Navbar />
-    <div className="min-h-screen bg-gradient-to-br from-blue-500 to-blue-300 p-10 pt-12 text-white mt-16">
+    <div className="min-h-screen bg-gradient-to-br from-blue-600 to-blue-200 p-10 pt-12 text-white mt-16">
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-20 mb-20">
         <Card

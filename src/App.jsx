@@ -11,16 +11,13 @@ export default function App() {
         <Card title="User & Posts Manager">
           <p>Manage users, posts, and to-dos efficiently.</p>
         </Card>
-      <Button label="Submit" onClick={() => alert("Clicked!")} />
         <Card title="Note Manager">
           <p>Create, prioritize, and organize your notes easily.</p>
         </Card>
-        <Button label="Cancel" variant="secondary" />
 
         <Card title="Simple Analytics">
           <p>View quick user and post statistics.</p>
         </Card>
-        <Button label="Delete" variant="danger" />
 
       </div>
     </div>
